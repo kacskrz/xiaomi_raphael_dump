@@ -1,0 +1,4 @@
+boot.img
+firmware-update/NON-HLOS.bin
+vendor/lib64/libSNPE.so
+system/system/app/WebViewGoogle/WebViewGoogle.apk
